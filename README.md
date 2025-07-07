@@ -37,8 +37,7 @@ Hi there! 👋 I'm Kajal, a passionate and enthusiastic **Full Stack Web Develop
 ---
 
 ## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Kajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kajalbondre&show_icons=true&theme=tokyonight)
 
 ---
 
