@@ -2,6 +2,10 @@
 
 Hi there! 👋 I'm Kajal, a passionate and enthusiastic **Full Stack Web Developer**. I love learning new technologies and building cool and functional web apps.
 
+I am currently a student pursuing expertise in Python Full Stack Development. My technical skill set includes HTML, CSS, JavaScript, Bootstrap, React, Python, and DBMS. I am passionate about web development and am currently building a website using HTML, CSS, Bootstrap, and JavaScript to enhance my practical skills.
+
+I am eager to work with organizations where I can learn new skills, grow my abilities, and contribute to organizational goals as well as my personal development.
+
 ---
 
 ## 🚀 Tech Stack
@@ -43,10 +47,11 @@ Hi there! 👋 I'm Kajal, a passionate and enthusiastic **Full Stack Web Develop
 
 ## 📫 Contact Me
 
-- ✉️ Email: your-email@example.com  
+- ✉️ Email: kajalbondre583@gmail.com
+  
 - 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/kajal-bondre-2310b6273)
 
 ---
 
-_Thanks for visiting! Keep coding 🚀_
+_Thanks for visiting!  🚀_
