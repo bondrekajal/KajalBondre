@@ -33,7 +33,7 @@ I am eager to work with organizations where I can learn new skills, grow my abil
 | Project Name | Description | Tech Used | Link |
 |--------------|-------------|-----------|------|
 | 📚 **Book Store Website** | Online bookstore UI with cart & search | HTML, CSS, Bootstrap, JavaScript, React | [View Project](https://github.com/yourusername/book-store) |
-| ☕ **Coffee Shop Website** | Modern coffee shop landing page | HTML, CSS, Bootstrap | [View Project](https://github.com/yourusername/coffee-shop) |
+| ☕ **Coffee Shop Website** | Modern coffee shop landing page | HTML, CSS, Bootstrap | [View Project[](](https://bondrekajal.github.io/Cofee_Shop/)
 | 🛒 **Flipkart Clone** | Flipkart homepage design | HTML, CSS, Bootstrap, jQuery | [View Project](https://github.com/yourusername/flipkart-clone) |
 
 > ✨ *More projects coming soon...*
