@@ -44,8 +44,8 @@ I am eager to work with organizations where I can learn new skills, grow my abil
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bondrekajal&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bondrekajal&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bondrekajal&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bondrekajal&layout=compact&theme=radical)
 
 
 
