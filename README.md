@@ -41,7 +41,9 @@ I am eager to work with organizations where I can learn new skills, grow my abil
 ---
 
 ## 📈 GitHub Stats
-![Kajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kajalbondre&show_icons=true&theme=tokyonight)
+
+![Kajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kajalbondre&show_icons=true&theme=radical)
+
  
 ---
 
