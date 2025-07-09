@@ -56,11 +56,10 @@ I am eager to work with organizations where I can learn new skills, grow my abil
 
 ## 📫 Contact Me
 
-- ✉️ Email: kajalbondre583@gmail.com
-  
+- ✉️ Email: kajalbondre583@gmail.com  
 - 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/kajal-bondre-2310b6273)
-
+- - 💻 GitHub: [github.com/bondrekajal](https://github.com/bondrekajal)  
 ---
 
 _Thanks for visiting!  🚀_
