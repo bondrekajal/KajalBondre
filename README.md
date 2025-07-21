@@ -48,7 +48,7 @@ I am eager to work with organizations where I can learn new skills, grow my abil
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bondrekajal&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=bondrekajal&theme=tokyonight)
 
 ## 💻 Top Languages
 
