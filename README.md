@@ -46,9 +46,9 @@ I am eager to work with organizations where I can learn new skills, grow my abil
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bondrekajal&show_icons=true&theme=tokyonight)
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bondrekajal&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bondrekajal&show_icons=true&theme=tokyonight)
 
 ## 💻 Top Languages
 
